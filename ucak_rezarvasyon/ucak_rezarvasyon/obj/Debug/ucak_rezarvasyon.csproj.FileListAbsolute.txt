@@ -1,0 +1,12 @@
+C:\Users\rümeysa\Desktop\Nesne Tabanlı Programlama\udemy\ucak_rezarvasyon\ucak_rezarvasyon\bin\Debug\ucak_rezarvasyon.exe.config
+C:\Users\rümeysa\Desktop\Nesne Tabanlı Programlama\udemy\ucak_rezarvasyon\ucak_rezarvasyon\bin\Debug\ucak_rezarvasyon.exe
+C:\Users\rümeysa\Desktop\Nesne Tabanlı Programlama\udemy\ucak_rezarvasyon\ucak_rezarvasyon\bin\Debug\ucak_rezarvasyon.pdb
+C:\Users\rümeysa\Desktop\Nesne Tabanlı Programlama\udemy\ucak_rezarvasyon\ucak_rezarvasyon\obj\Debug\ucak_rezarvasyon.csprojAssemblyReference.cache
+C:\Users\rümeysa\Desktop\Nesne Tabanlı Programlama\udemy\ucak_rezarvasyon\ucak_rezarvasyon\obj\Debug\ucak_rezarvasyon.Form1.resources
+C:\Users\rümeysa\Desktop\Nesne Tabanlı Programlama\udemy\ucak_rezarvasyon\ucak_rezarvasyon\obj\Debug\ucak_rezarvasyon.Properties.Resources.resources
+C:\Users\rümeysa\Desktop\Nesne Tabanlı Programlama\udemy\ucak_rezarvasyon\ucak_rezarvasyon\obj\Debug\ucak_rezarvasyon.csproj.GenerateResource.cache
+C:\Users\rümeysa\Desktop\Nesne Tabanlı Programlama\udemy\ucak_rezarvasyon\ucak_rezarvasyon\obj\Debug\ucak_rezarvasyon.csproj.CoreCompileInputs.cache
+C:\Users\rümeysa\Desktop\Nesne Tabanlı Programlama\udemy\ucak_rezarvasyon\ucak_rezarvasyon\obj\Debug\ucak_rezarvasyon.exe
+C:\Users\rümeysa\Desktop\Nesne Tabanlı Programlama\udemy\ucak_rezarvasyon\ucak_rezarvasyon\obj\Debug\ucak_rezarvasyon.pdb
+C:\Users\rumy\Desktop\Nesne Tabanlı Programlama\udemy\ucak_rezarvasyon\ucak_rezarvasyon\obj\Debug\ucak_rezarvasyon.exe
+C:\Users\rumy\Desktop\Nesne Tabanlı Programlama\udemy\ucak_rezarvasyon\ucak_rezarvasyon\obj\Debug\ucak_rezarvasyon.pdb
